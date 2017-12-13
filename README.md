@@ -1,5 +1,5 @@
 # vb-coldtheme
 Cold Hack UI Class for .NET
 
-Version: 1
-Included: Form, Button, CheckBox, TabControl
+<strong>Version</strong>: 1 <strong>-></strong> Included: Form, Button, CheckBox, TabControl<br>
+<strong>Version</strong>: 2 <strong>-></strong> Added: Label, RadioButton, GroupBox, Combobox, Textbox, ProgressBar
