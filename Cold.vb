@@ -1,5 +1,5 @@
 '<------------------>
-'Author: WithCreative
+'Author: Seukaiwokeo & JordanBelford
 'Created: 12.12.2017
 'Updated: 15.09.2018
 'Description: Cold Hack D3D9 Menu UI
